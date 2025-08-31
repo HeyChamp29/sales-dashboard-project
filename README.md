@@ -15,31 +15,15 @@ It covers multiple business scenarios including:
 
 
 Sales-Dashboard/
-* │
-* ├── Data/
-* │ └── sales_data.csv # Sample sales dataset
-│
-* ├── output/ # All generated charts/screenshots
-* │ ├── Task1.png
-* │ ├── Task2.png
-* │ ├── Task4.png
-* │ ├── Task5.png
-* │ ├── Task6.png
-* │ ├── Task7.png
-* │ ├── Task8.png
-* │ ├── Task9.png
-* │ ├── Task11.png
-* │ ├── Task12.png
-* │ ├── Task14.png
-* │ ├── Task15.png
-* │ ├── Task16.png
-* │ ├── Task17.png
-* │ └── ...
-* ├── task1.py # Python analysis scripts
-* ├── task2.py
-* ├── task3.py
-* ├── task4.py
-* └── ...
+* ├── Data/ # Contains sales datasets (e.g., sales_data.csv)
+* ├── output/ # Auto-generated charts & reports
+* ├── scripts/ # Analysis scripts
+* │ ├── task1.py
+* │ ├── task2.py
+* │ ├── task3.py
+* │ ├── … (continue list)
+* │ └── task17.py
+* └── README.md # Project documentation (this file)
 
 ## 🛠️ Technologies Used
 - **Python 3**
